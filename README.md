@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Joelmk28
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning  le  javascript pour mieux m'ameliorer en Front end
-- 💞️ I’m looking to collaborate avec quelqu'un
+- 🌱 j'aime travailler en collaboration avec ceux qui aiment aussi le faire
 
 - 📫 faites moi signe si vous pouvez
 
