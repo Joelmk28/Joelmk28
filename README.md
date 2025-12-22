@@ -1,10 +1,38 @@
-- 👋 Hi, I’m @Joelmk28
-- 👀 I’m interested in ...
-- 🌱 j'aime travailler en collaboration avec ceux qui aiment aussi le faire
+# Joel Muhindo Kirengo 🖤
 
-- 📫 faites moi signe si vous pouvez
+Développeur backend & mobile.  
+Architecte de systèmes, explorateur de technologies, intégrateur d’IA.  
+Je crée des applis et des services qui font plus que fonctionner… ils interagissent, surprennent et évoluent.
 
-<!---
-Joelmk28/Joelmk28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🕹 Arsenaux
+
+**Backend:**  
+Java | C# | Spring Boot | .NET | PostgreSQL | MySQL | JWT | Flyway | **SqtServer**  
+
+**Mobile & Frontend:**  
+.NET MAUI | XAML | MVVM | React | SPA  
+
+**IA & Automatisation:**  
+Chatbots | Analyse prédictive | APIs IA  
+
+**Outils & Cloud:**  
+Git | GitHub | Docker | AWS | OVH | VPS  
+
+---
+
+## ⚡ Projets récents
+
+- **Eizi** — Shopping mobile avec gestion de commandes, tutoriels interactifs et IA intégrée.  
+- **PizzaIn** — App .NET MAUI pour commandes de pizzas, interface fluide et dynamique.  
+- **Gestion Événements** — Web app Spring Boot pour création et suivi d’événements.  
+- **Observatoire Bula** — Capture et analyse de données multi-utilisateurs avec sécurité avancée.  
+- **SqtServer** — Serveur backend robuste pour la gestion de services et intégration IA.  
+
+---
+
+## 🌌 En quête
+
+- Maîtriser .NET MAUI et créer des apps mobiles qui se démarquent.  
+- Déployer des projets full-stack, backend Java/C#, mobile .NET MAUI, fro
