@@ -1,4 +1,4 @@
-# Joel Muhindo Kirengo 🖤
+# Joel Muhindo Kirengo 
 
 Développeur backend & mobile.  
 Architecte de systèmes, explorateur de technologies, intégrateur d’IA.  
