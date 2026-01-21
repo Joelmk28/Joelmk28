@@ -8,17 +8,11 @@ Je crée des applis et des services qui font plus que fonctionner… ils interag
 
 ## 🕹 Arsenaux
 
-**Backend:**  
-Java | C# | Spring Boot | .NET | PostgreSQL | MySQL | JWT | Flyway | **SqtServer**  
-
-**Mobile & Frontend:**  
-.NET MAUI | XAML | MVVM | React | SPA  
-
-**IA & Automatisation:**  
-Chatbots | Analyse prédictive | APIs IA  
-
-**Outils & Cloud:**  
-Git | GitHub | Docker | AWS | OVH | VPS  
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 
 
 
