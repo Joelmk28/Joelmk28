@@ -1,6 +1,6 @@
 # Joel Muhindo Kirengo 
 
-Développeur backend & mobile.  
+Ingenieur Logiciel.  
 Architecte de systèmes, explorateur de technologies, intégrateur d’IA.  
 Je crée des applis et des services qui font plus que fonctionner… ils interagissent, surprennent et évoluent.
 
@@ -10,7 +10,7 @@ Je crée des applis et des services qui font plus que fonctionner… ils interag
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,git,github,ts,react,sqlite,postgres,docker,c,py,cs,dotnet,java,spring,kafka,supabase,vscode,rider,figma,ia,llm,sqlserver" />
+    <img src="https://skillicons.dev/icons?i=c,py,cs,dotnet,java,spring,kafka,docker,supabase,vscode,rider,figma,html,css,js,git,github,ts,react,sqlite,postgres" />
   </a>
 </p>
 
