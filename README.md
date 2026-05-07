@@ -1,6 +1,6 @@
 # Joel Muhindo Kirengo 
 
-Ingenieur Logiciel.  
+Ingenieur Logiciel Consultant.  
 Architecte de systèmes, explorateur de technologies, intégrateur d’IA.  
 Je crée des applis et des services qui font plus que fonctionner… ils interagissent, surprennent et évoluent.
 
