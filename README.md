@@ -1,7 +1,7 @@
 # Joel Muhindo Kirengo 
 
-Ingenieur Logiciel Consultant.  
-Architecte de systèmes, explorateur de technologies, intégrateur d’IA.  
+Ingenieur Logiciel Consultant et Télépilote (Pilote de Drône)
+Architecte de systèmes, explorateur de technologies, intégrateur d’IA, Cartographe, Videaste, PhotoGraphe.  
 Je crée des applis et des services qui font plus que fonctionner… ils interagissent, surprennent et évoluent.
 
 ---
