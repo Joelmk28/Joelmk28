@@ -10,7 +10,7 @@ Je crée des applis et des services qui font plus que fonctionner… ils interag
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,py,cs,dotnet,java,spring,kafka,redis,docker,azure,kubernetes,supabase,vscode,rider,figma,html,css,git,github,ts,mysql,sqlite,postgres,angular" />
+    <img src="https://skillicons.dev/icons?i=c,py,cs,dotnet,java,angular,spring,kafka,redis,docker,azure,kubernetes,supabase,vscode,rider,figma,html,css,git,github,ts,mysql,sqlite,postgres,androidstudio" />
   </a>
 </p>
 
